@@ -1,0 +1,6 @@
+{
+  "name": "बोलके बिल - Hinglish Voice Billing for Kirana Stores",
+  "description": "AI-powered voice billing and khata credit ledger for Indian kirana stores. Speak in Hindi or Hinglish to generate itemized bills, manage customer accounts, and listen to spoken confirmations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
